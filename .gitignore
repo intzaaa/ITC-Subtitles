@@ -1,2 +1,8 @@
-*.mkv
+# Ignore everything
+*
+
+!.gitignore
+!*.srt
 *.local.srt
+
+!*/
