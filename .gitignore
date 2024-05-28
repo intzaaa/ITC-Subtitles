@@ -1,6 +1,7 @@
 # Ignore everything
 *
 
+!Readme.md
 !.gitignore
 !*.srt
 *.local.srt
