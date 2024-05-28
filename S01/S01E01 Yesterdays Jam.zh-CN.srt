@@ -455,7 +455,7 @@ Hello?
 00:07:40,320 --> 00:07:44,050
 是的，我相信是托尔斯泰说过……
 Yes I believe it was Tolstoy who said...
-噢，看来我们有客人了
+哦，看来我们有客人了
 Oh, it seems we have a visitor.
 
 97
@@ -483,7 +483,7 @@ Tolstoy, he said what?
 
 101
 00:07:56,650 --> 00:07:58,370
-噢别在意那个，莫里斯！
+哦别在意那个，莫里斯！
 Oh never mind that now, Morris!
 
 102
@@ -596,7 +596,7 @@ to this department.
 
 121
 00:09:06,900 --> 00:09:08,800
-噢，他们没有告诉你关于我的事吗？
+哦，他们没有告诉你关于我的事吗？
 Oh, did they not tell you about me?
 
 122
@@ -725,7 +725,7 @@ Ok bye! Bye!
 
 145
 00:10:14,950 --> 00:10:16,500
-噢，所以，你好！
+哦，所以，你好！
 Oh, so, hello!
 
 146
@@ -764,13 +764,13 @@ But how?!
 
 152
 00:10:41,590 --> 00:10:45,170
-噢你介意…… 你能帮我关一下门吗？
+哦你介意…… 你能帮我关一下门吗？
 Oh do you mind... Do you mind
 closing the door for me?
 
 153
 00:10:45,620 --> 00:10:46,850
-— 噢，是的，当然
+— 哦，是的，当然
 – Oh yeah, sure.
 — 是，好的
 – Yeah, Ok.
@@ -806,7 +806,7 @@ Are you all right?
 
 159
 00:11:14,630 --> 00:11:16,270
-噢是的，莫斯，我没事！
+哦是的，莫斯，我没事！
 Oh yes, Moss, I'm fine!
 
 160
@@ -855,7 +855,7 @@ What's that?
 
 168
 00:11:35,900 --> 00:11:38,070
-噢，只是水
+哦，只是水
 Oh just water.
 有时候，我会觉得耳朵变得很热
 Sometimes, I get a hot ear,
@@ -905,7 +905,7 @@ Look what you did!
 
 177
 00:11:55,400 --> 00:11:57,920
-噢别担心，这就是为什么
+哦别担心，这就是为什么
 Oh don't worry that's why
 我总是泡两杯茶
 I always make 2 cups of tea.
@@ -917,7 +917,7 @@ Anyway, what were we talking about?
 
 179
 00:12:00,730 --> 00:12:02,500
-噢，她对计算机一无所知
+哦，她对计算机一无所知
 Oh, her not knowing anything
 about computers.
 
@@ -1121,22 +1121,24 @@ You will slip up one day,
 
 216
 00:14:08,260 --> 00:14:10,710
-
+你相信我们，那时候我们一定在场！
 and believe you me,
 we will be there when you do!
 
 217
 00:14:10,750 --> 00:14:12,760
-
+一定会有一些证据
 There will be some piece of evidence
 that will prove
 
 218
 00:14:12,760 --> 00:14:13,900
+来毫无疑问地证明
 without any shadow of a doubt
 
 219
 00:14:13,900 --> 00:14:15,760
+你对计算机根本一无所知！
 that you don't know
 anything about computers.
 
@@ -1152,478 +1154,437 @@ Plugging in your computer.
 
 222
 00:14:21,370 --> 00:14:23,280
-
+也许是你说的话……
 It might be something you say...
 
 223
 00:14:23,360 --> 00:14:24,890
+或者你做的事情！
 or something you do!
 
 224
 00:14:25,360 --> 00:14:28,910
-But when we notice this,
-and believe me we will notice this,
+但当我们注意到这一点的时候，
+相信我们会注意到这一点的，
 
 225
 00:14:28,910 --> 00:14:31,510
-there's gonna be a long way down
-for you, sweet chicks!
+还会有很长的一段路要走，可爱的姑娘！
 
 226
 00:14:36,530 --> 00:14:38,410
 他很快就会意识到的……
-He'll realize in a second...
 
 227
 00:14:47,640 --> 00:14:50,450
-我真的你们要告发我
-I cannot believe you're going
-to tell on me.
+我不敢相信你们要告发我
 
 228
 00:14:50,830 --> 00:14:53,970
 你们就像一对可怕的老太太
-You're like a pair of horrible
-old women.
 
 229
 00:14:54,650 --> 00:14:55,820
 她刚才说了什么？
-What did she say?
 
 230
 00:14:56,770 --> 00:14:58,440
 她说我们就像一对可怕的老太太
-She said we're like horrible old women.
 
 231
 00:14:58,530 --> 00:14:59,720
-
-She didn't!
+不会吧！
 
 232
 00:15:00,430 --> 00:15:01,600
 嘿，伙计们！
-Hey guys!
 
 233
 00:15:01,840 --> 00:15:03,080
 好，有事情要告诉我？
-Ok, got something to tell me?
 
 234
 00:15:03,080 --> 00:15:04,780
+是的，嗯，事情是这样的：
 Yes, well, it's like this:
 
 235
 00:15:04,860 --> 00:15:07,240
 看看你们！我的I.T.团队
-Look at you! My I.T. Team.
 
 236
 00:15:07,520 --> 00:15:09,620
 — 是的
-– Yeah.
 — 你们每个人都是团队的一员
-– Team players each and every one of you.
 
 237
 00:15:09,630 --> 00:15:10,630
 是的，
-Yeah, what she...
 
 238
 00:15:10,650 --> 00:15:12,650
-这里没有空间留给那些在我的团队里不能做好团队合作的人
-There's no room for people
-who can't act in a team on my team!
+这里没有地方留给那些在我的团队里不能团队合作的人
 
 239
 00:15:13,530 --> 00:15:14,710
-打扰一下
-Excuse me.
+稍等一下
 
 240
 00:15:14,880 --> 00:15:15,650
 你好？
-Hello?
 
 241
 00:15:16,310 --> 00:15:17,050
 什么？！
-What?!
 
 242
 00:15:17,970 --> 00:15:19,700
-
-Well if you can't work as a team,
-you're all fired!
+听好，如果你们不能做到团队合作，
+那你们全都会被开除！
 
 243
 00:15:20,370 --> 00:15:22,880
-好，你听到我说的，好！
-That's it, you heard me, fine!
+就这样了，你听我的，没得说了！
 拿着你的东西走人！
-Get your things and go!
 
 244
 00:15:24,770 --> 00:15:25,610
 你好，安保？
-Hello, Security?
 
 245
 00:15:26,070 --> 00:15:27,720
 四楼的所有人都被开除了
-Everyone on floor 4 is fired.
 
 246
 00:15:28,260 --> 00:15:29,470
-请把他们从那个地方赶出去
-Escort them from the premises.
+把他们从那个地方赶出去
 
 247
 00:15:29,590 --> 00:15:30,590
 并且要团队合作！
-And do it as a team!
 
 248
 00:15:30,710 --> 00:15:33,270
 记住你们是一个团队，如果你们不能
-Remember you're a team, and if you can't
 做到团队合作，你们也会被开除！
-act as a team, you're fired too!
 
 249
 00:15:35,090 --> 00:15:35,770
-该死的！
-Dawn!
+该死！
 
 250
 00:15:36,040 --> 00:15:38,600
-接到招聘部门
-Get onto recruitment.
-告诉他们找一个安保团队
-Tell them to look for a security team
+接招聘部门
+要他们找一个安保团队
 
 251
 00:15:38,600 --> 00:15:39,300
 能够团队合作的
-that can work as team.
 
 252
 00:15:40,070 --> 00:15:42,350
-他们可能要把我们的安保团队
-They may have to escort our
+他们可能得把我们的安保团队
 从这栋大楼里面赶出去
-security team from the building,
 
 253
 00:15:42,540 --> 00:15:44,250
 因为他们没有团队合作的精神！
-for not acting like a team!
 
 254
 00:15:46,110 --> 00:15:49,830
 团队！团队 团队 团队 团队！
-Team! Team team team team team!
 
 255
 00:15:50,130 --> 00:15:51,890
 我非常喜欢“团队”这个词
-I even love saying the word "team".
 
 256
 00:15:53,140 --> 00:15:54,520
-你们也许会认为这是我家人的照片？
-You probably think that's a picture
-of my family?
+你们或许会以为这是我家人的照片？
 
 257
 00:15:56,980 --> 00:15:58,030
 这是A级团队
-It's the A-Team.
 
 258
 00:15:59,350 --> 00:16:02,790
-波蒂亚，多伊尔，老虎，珠宝人！
-Body, Doyle, Tiger, the Jewellery Man!
+博迪，多伊尔，泰戈尔和珠宝人！
 
 259
 00:16:03,190 --> 00:16:04,350
 他们都是我的团队！
-All of them!
 
 260
 00:16:05,600 --> 00:16:06,670
 所以你们想告诉我什么？
-So what do you wanna tell me?
 
 261
 00:16:07,250 --> 00:16:08,810
 嗯，我们相处得就是不太好
-Well, it's just not working out.
 
 262
 00:16:10,900 --> 00:16:12,660
 — 他在开玩笑！
-– He's joking!
-— 但是你说……
-– But you said...
+— 但是你说的……
 
 263
 00:16:12,700 --> 00:16:13,770
 不太好？
-Not working out?
 
 264
 00:16:13,800 --> 00:16:15,500
-噢不！没有！
-Oh no! No!
+哦不！没有！
 
 265
 00:16:15,580 --> 00:16:17,930
 我们相处得非常非常好！
-We are getting on like
-a big house on fire!
 
 266
 00:16:17,960 --> 00:16:19,780
 — 是的！
-– Yeah!
 — 我的耳朵越来越热了！
-– My ear's getting hot!
 
 267
 00:16:21,640 --> 00:16:24,600
 不是…… 你知道吗？
-No... You know what?
 我们应该走了，现在，因为
-We should leave, now, because
 
 268
 00:16:24,760 --> 00:16:26,060
 你也知道，你很忙
-you know, you're a busy man
 
 269
 00:16:26,070 --> 00:16:28,090
 而我们占用了太多你的时间
-and we've taken far too much
-of your time.
 
 270
 00:16:28,090 --> 00:16:29,900
 珍，你可以帮我把门打开吗？
-Jen could you just get the door
-for me there?
 
 271
 00:16:29,920 --> 00:16:30,960
 当然啦，罗伊！
-Absolutely Roy!
 
 272
 00:16:30,970 --> 00:16:32,720
 所以为什么你们一开始就来这里？
-So why did you come here
-in the first place?
 
 273
 00:16:35,290 --> 00:16:39,220
 我们为您的电脑设置了一个语音激活系统
-We set up a voice activation system
-on your computer.
 
 274
 00:16:39,300 --> 00:16:40,800
 我觉得你会喜欢上它的
-I think you're gonna enjoy it.
 
 275
 00:16:40,820 --> 00:16:43,550
 只不过它可能需要一点时间来适应你的声音
-It might just take a little while
-to get the pitch right on the voice
 
 276
 00:16:43,570 --> 00:16:45,700
 但是不管怎样，试试看吧！
-but nonetheless, go ahead!
-非常感谢你们！
-Thank you very much!
+非常感谢你！
 
 277
 00:16:45,720 --> 00:16:46,800
 — 拜拜！
-– Bye bye!
 — 谢谢你们！
-– Thank you!
 
 278
 00:16:47,120 --> 00:16:48,250
 真兴奋啊！
-How exciting!
 
 279
 00:16:51,930 --> 00:16:52,760
 你好……
-Hello...
 
 280
 00:16:56,150 --> 00:16:57,340
 你好，电脑！
-Hello computer!
 
 281
 00:17:01,550 --> 00:17:02,220
 你好！
-Hello!
 
 282
 00:17:04,320 --> 00:17:07,040
 你好…… 你好，电脑……
-Hello... Hello computer...
 
 283
 00:17:09,900 --> 00:17:11,730
 你是什么东西啊？
-What good are you?
 
 284
 00:17:11,740 --> 00:17:14,350
-你
+你很明显对计算机一无所知
 You obviously don't know anything
 about computers.
 
 285
 00:17:14,380 --> 00:17:15,750
+不可是…… 好吧
 No but... OK.
 
 286
 00:17:15,790 --> 00:17:17,140
+但我可以学
 But I can learn.
 
 287
 00:17:17,250 --> 00:17:20,100
+你知道，我的意思是，比如说莫斯，
 You know, I mean, for example Moss,
 
 288
 00:17:20,320 --> 00:17:22,070
+你可以带我看看你现在在做什么
 you could take me through
 what you're doing right now.
 
 289
 00:17:22,300 --> 00:17:23,670
+我很乐意！
 I'd be delighted!
 
 290
 00:17:23,950 --> 00:17:26,840
+我只是在写一段非常简单的程序代码
 I'm just working on a very simple piece
 of programming code.
 
 291
 00:17:35,140 --> 00:17:36,440
-I see...
+我明白了……
 
 292
 00:17:37,580 --> 00:17:40,380
+哦天哪，不，我又在说谎了！
 Oh God, no, I'm lying again!
+我根本不理解这些！
 I didn't understand any of that!
 
 293
 00:17:40,390 --> 00:17:42,680
+我对计算机一无所知，我是说……
 I don't know anything
 about computers, I mean...
 
 294
 00:17:42,730 --> 00:17:46,420
+我对你们来说是完全没用的
 I'm absolutely useless to you.
+我最好还是滚回家去吧
 I might as well pack up and go home.
 
 295
 00:17:48,820 --> 00:17:52,050
+嗨！请问…… 罗伊在吗？
 Hi! Is... Roy around?
 
 296
 00:17:53,420 --> 00:17:54,820
+你好啊，小姐！
 Hello there little lady!
 
 297
 00:17:55,700 --> 00:17:58,380
+你迷失了吗？
 Are you lost?
+我可以为你做些什么？我是罗伊
 How can I help you? I'm Roy.
 
 298
 00:18:00,730 --> 00:18:02,200
+你想让我下来？！
 You wanted me to come down?!
 
 299
 00:18:03,310 --> 00:18:04,370
+行啊，我来了！
 Well here I am!!
 
 300
 00:18:04,370 --> 00:18:05,770
+别打脸！！
 Not the face!!
 
 301
 00:18:06,500 --> 00:18:07,820
+别打脸！！
 Not the face!!
 
 302
 00:18:07,960 --> 00:18:10,340
+好啊，也许这会教会你
 Well maybe this will teach you
 
 303
 00:18:10,370 --> 00:18:12,900
+对人要尊重一点！
 to treat people with
 a little bit of respect!
 
 304
 00:18:14,190 --> 00:18:17,090
+是因为我们之前在电话里聊过吗？
 Is it 'cos we spoke on the phone
 earlier?
 
 305
 00:18:18,240 --> 00:18:20,780
+哦我的天哪！那是Manolo的鞋子吗？
 Oh my God! Are those Manolo's?
 
 306
 00:18:20,830 --> 00:18:21,440
+是的！
 Yes!
 
 307
 00:18:21,530 --> 00:18:24,240
+它们真漂亮！它们贵吗？
 They are gorgeous! Were they expensive?
 
 308
 00:18:24,290 --> 00:18:26,490
+不！在促销的时候买的
 No! Got them in a sale.
 
 309
 00:18:26,540 --> 00:18:27,810
+哦天哪！太聪明了！
 Oh God! Clever you!
 
 310
 00:18:27,820 --> 00:18:29,740
+我从来没有那么幸运
 I'm never lucky enough
+去
 to get a bargain myself.
 
 311
 00:18:29,750 --> 00:18:31,310
+啊，我应该带你去逛街才对的
 Well, I should take you shopping.
 
 312
 00:18:31,330 --> 00:18:33,270
+是啊，那样太棒了
 Yeah, no that would be fantastic.
 
 313
 00:18:33,320 --> 00:18:35,740
+哦我会给你打电话的
 Oh I will give you a call.
+见到你真好！保重！
 Nice to meet you! Take care!
 
 314
 00:18:35,780 --> 00:18:39,330
+— 见到你真好！
 – Nice meeting you!
+— 主席！哇！
 – Chairman! Wow!
 
 315
@@ -1713,7 +1674,7 @@ PARTY - I.T. DEPT 5.45 TODAY
 
 334
 00:19:57,980 --> 00:20:04,570
-不不！噢不，真的真的真的，
+不不！哦不，真的真的真的，
 No no! Oh no, really really really,
 那是一个真实的故事！
 that was a true story!
@@ -1808,7 +1769,7 @@ Yeah yeah yeah! Oh it's brilliant!
 
 351
 00:20:40,470 --> 00:20:42,290
-噢这个故事太棒了，
+哦这个故事太棒了，
 Oh this a great story,
 你们一定会喜欢的！
 you're gonna love it!
@@ -1855,7 +1816,7 @@ so we brought them to the fair.
 
 359
 00:21:08,420 --> 00:21:11,310
-噢真的很棒！最后，
+哦真的很棒！最后，
 Oh really nice! In the end,
 他们只收了我们一半的钱
 they only charged us half.
@@ -1868,7 +1829,7 @@ for all the rides.
 
 361
 00:21:19,750 --> 00:21:22,730
-噢难道这不是最棒的故事吗？
+哦难道这不是最棒的故事吗？
 Oh isn't that just the best story?
 
 362
